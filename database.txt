@@ -1,0 +1,1 @@
+{"Steph": {"Maths": {"Number of pages to study": 200, "Average time per page(in minutes)": 5, "Time to study the subject": 16.7}, "French": {"Number of pages to study": 300, "Average time per page(in minutes)": 2, "Time to study the subject": 10.0}}}
