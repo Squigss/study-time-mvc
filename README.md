@@ -1,4 +1,7 @@
 # study-time-mvc
+
+Mini project completed to learn the basics of Python.
+
 This is a mini programme with a user interface that is built using the Model-View-Control framework
 
 To run this programme, you might need to have tkinter dowloaded on your computer. 
